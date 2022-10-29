@@ -1,0 +1,56 @@
+<h1>You have successfully joined the community!!</h1> 
+<h3>※WARNING最後まできちんとお読み下さい</h3>
+<p>あなたは無事コミュニティに参加しました！</p> 
+<p>サブスクリプションの15000円お支払いください</p> 
+<p>お支払いが確認されない場合、法的措置を取らせていただく場合があります。</p>  
+<h2>お客様情報</h2>
+<table border="1">
+  <tr>
+    <td>登録日時</td>
+    <td id="date"></td>
+  </tr>
+  <tr>
+    <td>端末情報</td>
+    <td id="device"></td>
+</table>
+<h2>問い合わせ先</h2>
+<table border="1">   
+  <tr>     
+    <td>電話番号</td>
+    <td>080-7100-9314</td>
+  </tr>
+  <tr>
+    <td>メールアドレス</td>
+    <td>mystery08071009314@gmail.com
+  </tr>
+</table>
+<h2>お振込先</h2>
+<table border="1">
+  <tr>
+    <td>銀行名　(銀行コード)</td>
+    <td>納豆支店　(710)</td>
+  </tr>
+  <tr>
+    <td>支店名　(支店コード)</td>
+    <td>臭い支店　(931)</td>
+  </tr>
+  <tr>
+    <td>種別</td>
+    <td>普通預金</td>
+  </tr>
+  <tr>
+    <td>口座番号</td>
+    <td>7109314</td>
+  </tr>
+<table>
+<p>流石に冗談です。払わないでくださいね(笑)</p>
+<script type="text/javascript">
+      const se = new Audio(
+        "https://dl.dropbox.com/s/pjf5iswhy43fc1f/camera-shutter3.mp3
+        };
+      $("#device").text(platform.description);
+      $("#date").text(new Date().toLocaleString("ja-JP"));
+      $("#delete").click(() => {
+        $("#notification").addClass("is-hidden")
+      });
+    </script>
